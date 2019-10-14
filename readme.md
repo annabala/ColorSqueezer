@@ -10,4 +10,6 @@ Technologies used in the project:
 - CSS3
 - HTML5
 
+Live demo: https://annabala.github.io/ColorSqueezer/
+
 #### Project was insipred by course JavaScript30 made by Wes Bos, who gave me a lot of ideas how to use plain JavaScript to create something cool.
